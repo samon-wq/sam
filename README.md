@@ -1,5 +1,5 @@
 # sam
-Hi, They're  I'm Subham Bhumij — A Web Developer & Cybersecurity Engineer.
+Hi, They're  I'm Subham Bhumij — A DATA Analytics & Cybersecurity Engineer.
 I adapt quickly, understand core concepts with ease, and love working on trending technologies that drive company growth through smart coding and market analysis.
 Web Developer & Cybersecurity Engineer with a strong grasp of coding, quick adaptability to new roles, and a passion for leveraging trending technologies to boost company performance. 
 Skilled in analyzing market strategies and aligning tech with business goals.
