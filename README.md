@@ -5,11 +5,11 @@ Web Developer & Cybersecurity Engineer with a strong grasp of coding, quick adap
 Skilled in analyzing market strategies and aligning tech with business goals.
 
 <h1 align="center">Hi 👋, I'm Subham Bhumij</h1>
-<h3 align="center">Web Developer & Cybersecurity Engineer 🚀</h3>
+<h3 align="center">Data analytic & Cybersecurity Engineer 🚀</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently exploring **Web Development** & **Cybersecurity**
+- 🌱 I’m currently exploring **Data analytic ** & **Cybersecurity**
 - 🚀 Passionate about trendy tech that improves business & user experience
 - 🧠 Quick learner – I can easily adopt new roles and understand concepts
 - 📊 Skilled at analyzing market strategy and aligning with tech goals
@@ -31,7 +31,7 @@ Skilled in analyzing market strategies and aligning tech with business goals.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cybersecurity-2E3440?style=for-the-badge&logo=hackthebox&logoColor=green"/>
-
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
 </p>
 
 ### 📈 GitHub Stats:
